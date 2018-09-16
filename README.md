@@ -1,7 +1,7 @@
 # esx_didrik_inbrott
 
 
-## Getting Started
+## Description
 
 This script is giving you the ability to break in into a house and search it for items.
 Feel free the edit the script as much as you want, But do not reupload the script.
